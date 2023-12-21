@@ -1,0 +1,6 @@
+.border {
+    display: flex;
+    border-bottom: 2px solid gray;
+    width: 88%;
+    margin: 0 auto;    
+}

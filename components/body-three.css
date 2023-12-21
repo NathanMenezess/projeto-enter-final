@@ -1,0 +1,37 @@
+.body-three {
+    display: flex;
+}
+
+.img-bt {
+    width: 500px;
+    padding-left: 50px;
+    height: 450px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+
+}
+
+
+
+.h2-bt {
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-left: 100px;
+    margin-bottom: 1px;
+    color: #4d707e;
+    margin-top: 70px;
+}
+
+.h2-bt2 {
+    margin-left: 100px;
+    margin-top: 1px;
+    color: #c3cbcb;
+    
+}
+
+.p-bt {
+    font-size: 25px;
+    padding-left: 100px;
+    padding-right: 110px;
+    color: #a9b8b8;
+}

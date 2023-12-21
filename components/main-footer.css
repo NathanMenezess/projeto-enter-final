@@ -1,0 +1,14 @@
+.main-footer {
+    background-color: black;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 6px;
+    margin: 10px;
+
+}
+
+.p-footer {
+    font-size: 25px;
+    color: #a9b8b8;
+}

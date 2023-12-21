@@ -1,0 +1,22 @@
+.body-first {
+    display: flex;
+    width: 99vw;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+.logo-bf{
+    margin: 60px auto;
+    width: 40%;
+    display: flex;
+}
+
+.h2-bf {
+    color: #11b5ab;
+    font-size: 43px;
+    position: absolute;
+    left: 80px;
+    top: 235px;
+}

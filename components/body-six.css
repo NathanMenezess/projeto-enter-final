@@ -1,0 +1,78 @@
+.container-bsix {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 30px;
+    
+}
+
+.img-containerbsix {
+    width: 100vw;
+    height: 450px;
+    display: flex;
+    border-radius: 35px;
+    justify-content: space-between;
+    padding: 0px 120px 0px 120px;
+
+}
+
+.nathan {
+    background: #02b4a3;
+    width: 75px;
+    padding: 100px 100px;
+    height: 160px;
+    border-radius: 50px;
+    border: #38839e solid 2px;
+}
+
+.img-bsix1 {
+    width: 200px;
+    margin-left: -81%;
+
+}
+
+#nathan-nome {
+    color: rgb(255, 254, 255);
+    display: flex;
+    position: absolute;
+    left: 215px;
+}
+
+#julia {
+    color: rgb(255, 254, 255);
+    display: flex;
+    position: absolute;
+    left: 550px;
+}
+
+#joao {
+    color: rgb(255, 254, 255);
+    display: flex;
+    position: absolute;
+    right: 530px;
+
+}
+
+
+#taynara {
+    color: rgb(255, 254, 255);
+    display: flex;
+    position: absolute;
+    right: 228px;
+
+}
+
+#img-thaynara {
+    width: 180px;
+    margin-left: -65%;
+    margin-top: -10px;
+}
+
+#equipe {
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #4d707e;
+    margin-top: 50px;
+}
+

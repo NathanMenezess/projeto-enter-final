@@ -1,0 +1,22 @@
+#main-button {
+    display: inline-block;
+    background: #04beb5;
+    color: white;
+    padding: 15px 18px;
+    margin-right: 5px;
+    margin-top: 5px;
+    transition: transform 200ms linear;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px
+    
+    
+}
+
+#main-button:hover {
+    background: #5d7878;
+    color:#04beb5;
+    transform: scale(1.08);
+    cursor: pointer;
+    text-transform: uppercase;
+}

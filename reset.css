@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background-color: #042c2c;
+}
+
+body {
+    font-family: "Oswald";
+}
+
+button {
+    border: none;
+}
+
+#b-logo{
+    text-decoration: none;
+}
